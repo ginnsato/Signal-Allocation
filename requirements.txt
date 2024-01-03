@@ -1,0 +1,6 @@
+unittest2
+coverage
+pylint
+pydocstyle
+pycodestyle
+docformatter
